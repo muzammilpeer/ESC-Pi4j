@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="electronicSpeedControllerApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/electronicSpeedControllerApp_jar</output-path>
+    <root id="archive" name="electronicSpeedControllerApp.jar">
+      <element id="module-output" name="electronicSpeedControllerApp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-device/1.2-SNAPSHOT/pi4j-device-1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-gpio-extension/1.2-SNAPSHOT/pi4j-gpio-extension-1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/1.2-SNAPSHOT/pi4j-core-1.2-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
