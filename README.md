@@ -12,3 +12,7 @@ My next target is to use this code in my quadcopter project.
 
 For getting the pin mapping type this in terminal.
 -> gpio readall
+
+
+Video:
+https://www.youtube.com/watch?v=AIJrR_V0Iz8
