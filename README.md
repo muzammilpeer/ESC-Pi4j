@@ -11,7 +11,9 @@ My next target is to use this code in my quadcopter project.
 
 
 For getting the pin mapping type this in terminal.
--> gpio readall
+
+gpio readall
+<img width="583" alt="screen shot 2017-12-08 at 12 31 02 am" src="https://user-images.githubusercontent.com/859865/34304644-6d4a8144-e75c-11e7-8a47-e0cccf364f2b.png">
 
 
 Video:
